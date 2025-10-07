@@ -4,3 +4,8 @@
 里面有 x86/x64/Arm64 3个版本。
 还有头文件和示例
 
+
+This is a backup library that can be used directly in your own project next time. 
+I changed to Windows C++ with https://github.com/paullouisageneau/libjuice/releases/tag/v1.6.2 
+and 3 versions of x86/x64/Arm64 in the lib and DLL. 
+There are also header files and examples
